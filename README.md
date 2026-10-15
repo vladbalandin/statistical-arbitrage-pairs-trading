@@ -119,12 +119,11 @@ The project uses the following methodological foundations. It is **not** a direc
 - **Yahoo Finance:** historical equity prices originally retrieved using the `yfinance` Python package. A fixed copy is included as [`prices_snapshot.csv`](prices_snapshot.csv) so that later data updates do not alter the study's sample.
 
 
----
-
-*Educational quantitative research project. Not investment advice.*
-
 ## Interactive Visualizations
 
 The interactive Plotly charts are available in the [`plotly_figures/`](plotly_figures/) directory as standalone HTML files.
 
 Download the HTML files and open them in a browser to explore the charts interactively. GitHub's notebook preview does not render interactive Plotly outputs.
+---
+
+*Educational quantitative research project. Not investment advice.*

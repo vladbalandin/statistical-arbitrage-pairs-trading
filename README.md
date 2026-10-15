@@ -124,6 +124,7 @@ The project uses the following methodological foundations. It is **not** a direc
 The interactive Plotly charts are available in the [`plotly_figures/`](plotly_figures/) directory as standalone HTML files.
 
 Download the HTML files and open them in a browser to explore the charts interactively. GitHub's notebook preview does not render interactive Plotly outputs.
+
 ---
 
 *Educational quantitative research project. Not investment advice.*

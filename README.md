@@ -125,6 +125,27 @@ The interactive Plotly charts are available in the [`plotly_figures/`](plotly_fi
 
 Download the HTML files and open them in a browser to explore the charts interactively. GitHub's notebook preview does not render interactive Plotly outputs.
 
+### View Interactive Charts Online
+
+Explore the interactive Plotly charts directly in your browser.
+
+**Pair Analysis**
+
+- [XOM / CVX](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/pair_xom_cvx.html)
+- [KO / PEP](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/pair_ko_pep.html)
+- [V / MA](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/pair_v_ma.html)
+- [HD / LOW](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/pair_hd_low.html)
+- [UPS / FDX](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/pair_ups_fdx.html)
+
+**Rolling Diagnostics**
+
+- [Rolling Hedge Ratio](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/rolling_beta.html)
+- [Rolling Cointegration P-value](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/rolling_pvalue.html)
+- [Rolling P-value — KO / PEP](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/rolling_pvalue_ko_pep.html)
+- [Rolling P-value — V / MA](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/rolling_pvalue_v_ma.html)
+- [Rolling P-value — UPS / FDX](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/rolling_pvalue_ups_fdx.html)
+- [Regression Residuals](https://vladbalandin.github.io/statistical-arbitrage-pairs-trading/plotly_figures/regression_residuals.html)
+
 ---
 
 *Educational quantitative research project. Not investment advice.*
